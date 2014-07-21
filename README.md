@@ -27,7 +27,7 @@ BlackJack.java    - The main class that plays the game
 Flow of BlackJack:
 =================
 
-1. Starts with a dealer, player(with 100 chips) and a deck of 52 cards
+1. Starts with a dealer, player(with 100 chips) and a deck(of 52 cards)
 2. Loops until player bets: 1-100 chips or 0 to quit
 3. InitialDeal : shuffle deck, deal 2 cards to player and 2 to dealer
     Player: shows both cards
