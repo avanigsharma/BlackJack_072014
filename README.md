@@ -33,6 +33,6 @@ Flow of BlackJack:
     Player: shows both cards
     Dealer: shows first card, second card is hidden
 3. Player: If initial deal is not 21 or blackjack, loops until player wants to hit and is not busted 
-4. Dealer: loops until dealer is busted and keeps hitting
+4. Dealer: loops until dealer is not busted and keeps hitting
 5. once out of the loops from 3 and 4, ShowResults method prints the results according to the winning rules.
 6. The game goes on until player runs out of money or player enters no or 0 bet.
